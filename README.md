@@ -160,16 +160,15 @@ df
 ~~~
 
 # OUPUT :
-![output](A.PNG)
-![output](B.PNG)
-![output](C.PNG)
-![output](D.PNG)
-![output](E.PNG)
-![output](F.PNG)
-![output](G.PNG)
-![output](H.PNG)
-![output](I.PNG)
-
+![Screenshot (31)](https://user-images.githubusercontent.com/93427182/168438989-825cf576-580b-42dd-85f1-ab57b3c6aebe.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/93427182/168438996-9f00fc86-5484-45c0-bc61-6e7aaf3f6359.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/93427182/168439002-43915bc6-f451-40b6-94fa-3d1a583d37cf.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/93427182/168439005-0f0cdb3f-bfe7-4083-9ca1-3fdd225e![Screenshot (38)](https://user-images.githubusercontent.com/93427182/168439013-70b525a2-4609-45b7-95aa-600f48a916ec.png)
+1076.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/93427182/168439016-a0cde39c-de3e-41d0-beae-b6d386c55289.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/93427182/168439024-cc5cc903-0e82-4955-9987-7729c284ba42.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/93427182/168439028-5cf05af5-5a53-4745-a912-56c697db4f5e.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/93427182/168439031-8a3aaf3b-c314-4e61-99eb-2cad2da485b7.png)
 
 # Result :
 The various feature transformation techniques on a dataset and save the data to a file has been performed successfully.
